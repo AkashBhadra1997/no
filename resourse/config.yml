@@ -1,0 +1,3 @@
+test_environment:
+  base_url: "https://www.shoppersstack.com/shopping"
+  login_endpoint:  "/users/login"
